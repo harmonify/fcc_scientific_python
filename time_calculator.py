@@ -1,3 +1,6 @@
+# https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
+# https://replit.com/@harmonify/boilerplate-time-calculator-1#time_calculator.py
+
 def add_time(base: str, addon: str, dow: str = "") -> str:
     DAYS_OF_WEEK = ("Monday", "Tuesday", "Wednesday",
                     "Thursday", "Friday", "Saturday", "Sunday")
